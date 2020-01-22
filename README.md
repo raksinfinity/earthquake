@@ -6,4 +6,4 @@ The Circle indicates an earthquake and important parameters like time, magnitude
 The files:
 new.html -> includes a div tag and script tags for java script file, d3js and css file.
 app.cs -> contains styling for div and tooltip
-quake.js -> describes the html body with circles indicating earthquakes. Consists of creation of mouseon and mouseout events with a tooltip.
+quake.js -> describes the html body with circles indicating earthquakes. Consists of creation of mouseon and mouseout events with a tooltip. Also the system needs to be connected to the internet for the data to be fetched in real time.
